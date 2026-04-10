@@ -1,0 +1,20 @@
+Input:A {https://youtu.be/ycsd5h3F0GY?si=r9A-a_88snATMpto} to a YouTube lecture video related to coding.
+Task:Analyze the video transcript and generate comprehensive, structured notes strictly based on the content presented in the video. Do not add any external information or assumptions beyond what is explained in the lecture. The notes should be detailed, easy to understand, and organized with clear headings and subheadings.
+Output Requirements:
+* The entire output must be in Markdown format for easy copy-paste and readability.
+* Begin with a main title reflecting the lecture topic.
+* Use clear Markdown headings and subheadings (e.g., #, ##, ###) to organize content.
+* For each section, provide detailed explanations, definitions, and important points derived only from the video.
+* Highlight important terms, concepts, and logic using Markdown formatting (e.g., bold, italic, inline code where needed).
+* Replace any programming code examples with well-structured pseudocode instead of actual code.
+* For algorithm/pseudocode sections:
+    * Use proper Markdown code blocks (```) for formatting.
+    * Ensure pseudocode is clean, step-by-step, and consistently formatted.
+* Use bullet points or numbered lists where appropriate for clarity.
+* Do not include actual programming language syntax unless it is explained conceptually in the video.
+* End with a concise summary of the lecture’s main takeaways.
+Instructions for the Summarizer:
+* Strictly adhere to the video content; do not introduce external knowledge.
+* Rephrase and condense information instead of copying the transcript.
+* Maintain clarity, logical flow, and depth to make the notes useful for study and revision.
+* Ensure pseudocode accurately reflects the logic explained in the lecture.
