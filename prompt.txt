@@ -1,4 +1,4 @@
-Input:A {https://youtu.be/ycsd5h3F0GY?si=r9A-a_88snATMpto} to a YouTube lecture video related to coding.
+Input:A {link} to a YouTube lecture video related to coding.
 Task:Analyze the video transcript and generate comprehensive, structured notes strictly based on the content presented in the video. Do not add any external information or assumptions beyond what is explained in the lecture. The notes should be detailed, easy to understand, and organized with clear headings and subheadings.
 Output Requirements:
 * The entire output must be in Markdown format for easy copy-paste and readability.
